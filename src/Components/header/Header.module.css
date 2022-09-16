@@ -1,0 +1,42 @@
+.header {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+
+  padding: 40px;
+  color: #fff;
+  justify-content: space-between;
+}
+.icons a {
+  margin: 5px;
+  font-size: 25px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.menu {
+  cursor: pointer;
+  font-size: larger;
+
+  position: fixed;
+  top: 50%;
+  right: 10px;
+}
+/* {MEDIUM DEVICES} */
+@media screen and (max-width: 1024px) {
+  .header {
+    height: 28vh;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .header {
+    height: 10vh;
+    justify-content: space-between;
+  }
+  .icons a {
+    font-size: 20px;
+    margin: 3px;
+  }
+}

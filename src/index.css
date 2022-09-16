@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  animation: colors 15s ease;
+
+  font-family: "Quicksand", sans-serif;
+  /* font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Quicksand", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Trispace", sans-serif; */
+}
+a {
+  text-decoration: none;
+}
