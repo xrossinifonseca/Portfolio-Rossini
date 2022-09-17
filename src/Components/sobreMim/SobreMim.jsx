@@ -20,7 +20,7 @@ function SobreMim() {
           <p>
             Seja bem vindo ao meu portfólio. Me chamo Rossini Fonseca e atuo
             como desenvolvedor de software desde 2021 com criações e otimizações
-            de sites, e-commerce, lading pages e outros sistemas de softwares.
+            de sites, e-commerce, landing pages e outros sistemas de softwares.
             Possuo como foco desenvolvimento web onde utilizo a linguagem
             javascript em meus projetos. Faço uso do React, Next.js, Html5 e
             Css3 para aplicações no front-end e também possuo conhecimento em
