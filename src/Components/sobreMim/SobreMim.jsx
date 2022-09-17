@@ -18,16 +18,17 @@ function SobreMim() {
         <div className="content_text">
           <h1>Sobre Mim</h1>
           <p>
-            Seja bem vindo ao meu porfólio. Me chamo Rossini Fonseca e atuo como
-            desenvolvedor de software desde 2021 com criações e otimizações de
-            sites, e-commerce e sistema de softwares. Possuo como foco
-            desenvolvimento web onde utilizo a linguagem javascript em meus
-            projetos. Faço uso do React, Next.js, Html5 e Css3 para aplicações
-            no front-end e também possuo conhecimento em Node.js com foco em
-            servidores web fazendo uso do express para requisições via HTTPS.
-            Meu objetivo como desenvolvedor é trazer soluções e criar novas
-            funcionalidades para todos os clientes, otimizando interfaces para
-            melhores perfomances e garantir a boa experiência ao usuário.
+            Seja bem vindo ao meu portfólio. Me chamo Rossini Fonseca e atuo
+            como desenvolvedor de software desde 2021 com criações e otimizações
+            de sites, e-commerce, lading pages e outros sistemas de softwares.
+            Possuo como foco desenvolvimento web onde utilizo a linguagem
+            javascript em meus projetos. Faço uso do React, Next.js, Html5 e
+            Css3 para aplicações no front-end e também possuo conhecimento em
+            Node.js com foco em servidores web fazendo uso do express para
+            requisições via HTTPS. Meu objetivo como desenvolvedor é trazer
+            soluções e criar novas funcionalidades para todos os clientes,
+            otimizando interfaces para melhores perfomances e garantir a boa
+            experiência ao usuário.
           </p>
 
           <div className="btn">
