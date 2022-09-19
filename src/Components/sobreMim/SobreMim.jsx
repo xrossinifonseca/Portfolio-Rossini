@@ -19,8 +19,8 @@ function SobreMim() {
           <h1>Sobre Mim</h1>
           <p>
             Seja bem vindo ao meu portfólio. Me chamo Rossini Fonseca e atuo
-            como desenvolvedor de software desde 2021 com criações e otimizações
-            de sites, e-commerce, landing pages e outros sistemas de softwares.
+            como desenvolvedor de software desde 2021 na criação e otimização de
+            sites, e-commerce, landing pages e outros sistemas de softwares.
             Possuo como foco desenvolvimento web onde utilizo a linguagem
             javascript em meus projetos. Faço uso do React, Next.js, Html5 e
             Css3 para aplicações no front-end e também possuo conhecimento em
@@ -33,7 +33,11 @@ function SobreMim() {
 
           <div className="btn">
             <button type="button">
-              <a href={cv} download>
+              <a
+                href={cv}
+                download="rossini-fonseca.pdf"
+                type="application/pdf"
+              >
                 currículo cv
               </a>
             </button>
