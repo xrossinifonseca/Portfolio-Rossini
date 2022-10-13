@@ -38,7 +38,7 @@ function Projects() {
         </div>
         <div className="fild">
           <a
-            href="https://github.com/xrossinifonseca/CRUD-BASICO"
+            href="https://https://dropdown-eight.vercel.app/"
             target="_blank"
             rel="noreferrer"
           >
