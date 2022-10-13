@@ -43,10 +43,10 @@ function Projects() {
             rel="noreferrer"
           >
             <div className="box">
-              <img src={dropdown} alt="lading-page" className="project-img" />
+              <img src={dropdown} alt="landing-page" className="project-img" />
             </div>
           </a>
-          <h3>Lading page</h3>
+          <h3>Landing page</h3>
           <a
             href="https://https://dropdown-eight.vercel.app/"
             target="_blank"
