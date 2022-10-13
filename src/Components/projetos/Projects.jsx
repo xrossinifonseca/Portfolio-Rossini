@@ -3,7 +3,7 @@ import "./projects.css";
 import { AiOutlineArrowRight } from "react-icons/ai";
 import burguerApp from "../img/burguer-script.png";
 import fruitStore from "../img/fruit-store.png";
-import crud from "../img/crud.png";
+import dropdown from "../img/dropdown";
 
 function Projects() {
   return (
@@ -43,12 +43,12 @@ function Projects() {
             rel="noreferrer"
           >
             <div className="box">
-              <img src={crud} alt="projeto-crud" className="project-img" />
+              <img src={dropdown} alt="lading-page" className="project-img" />
             </div>
           </a>
-          <h3>Lista de usuários</h3>
+          <h3>Lading page</h3>
           <a
-            href="https://github.com/xrossinifonseca/CRUD-BASICO"
+            href="https://https://dropdown-eight.vercel.app/"
             target="_blank"
             rel="noreferrer"
             className="explorar"
