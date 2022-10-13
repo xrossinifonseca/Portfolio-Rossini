@@ -3,7 +3,7 @@ import "./projects.css";
 import { AiOutlineArrowRight } from "react-icons/ai";
 import burguerApp from "../img/burguer-script.png";
 import fruitStore from "../img/fruit-store.png";
-import dropdown from "../img/dropdown";
+import dropdown from "../img/dropdown.png";
 
 function Projects() {
   return (
