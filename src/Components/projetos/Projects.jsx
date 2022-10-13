@@ -3,7 +3,7 @@ import "./projects.css";
 import { AiOutlineArrowRight } from "react-icons/ai";
 import burguerApp from "../img/burguer-script.png";
 import fruitStore from "../img/fruit-store.png";
-import dropdown from "../img/dropdown.png";
+import dropDown from "../img/dropdown.png";
 
 function Projects() {
   return (
@@ -43,7 +43,7 @@ function Projects() {
             rel="noreferrer"
           >
             <div className="box">
-              <img src={dropdown} alt="landing-page" className="project-img" />
+              <img src={dropDown} alt="landing-page" className="project-img" />
             </div>
           </a>
           <h3>Landing page</h3>
