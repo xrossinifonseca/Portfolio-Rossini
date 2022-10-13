@@ -12,26 +12,26 @@ function SideMenu() {
   return (
     <div className="container">
       <ul className="list">
-        <li>
-          <Link to="home" smooth={true} duration={500}>
+        <Link to="home" smooth={true} duration={500}>
+          <li>
             <AiOutlineHome />
-          </Link>
-        </li>
-        <li>
-          <Link to="sobre" smooth={true} duration={500}>
+          </li>
+        </Link>
+        <Link to="sobre" smooth={true} duration={500}>
+          <li>
             <CgProfile />
-          </Link>
-        </li>
-        <li>
-          <Link to="projetos" smooth={true} duration={500}>
+          </li>
+        </Link>
+        <Link to="projetos" smooth={true} duration={500}>
+          <li>
             <AiOutlineFundProjectionScreen />
-          </Link>
-        </li>
-        <li>
-          <Link to="contato" smooth={true} duration={500}>
+          </li>
+        </Link>
+        <Link to="contato" smooth={true} duration={500}>
+          <li>
             <AiOutlineMessage />
-          </Link>
-        </li>
+          </li>
+        </Link>
       </ul>
     </div>
   );

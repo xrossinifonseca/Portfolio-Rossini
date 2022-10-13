@@ -3,7 +3,7 @@ import "./projects.css";
 import { AiOutlineArrowRight } from "react-icons/ai";
 import burguerApp from "../img/burguer-script.png";
 import fruitStore from "../img/fruit-store.png";
-import dropDown from "../img/dropdown.png";
+// import dropDown from "../img/dropdown.png";
 
 function Projects() {
   return (
@@ -36,7 +36,7 @@ function Projects() {
             <AiOutlineArrowRight className="arrow-icon" />
           </a>
         </div>
-        <div className="fild">
+        {/* <div className="fild">
           <a
             href="https://dropdown-eight.vercel.app/"
             target="_blank"
@@ -56,7 +56,7 @@ function Projects() {
             <p>explorar projeto</p>
             <AiOutlineArrowRight className="arrow-icon" />
           </a>
-        </div>
+        </div> */}
         <div className="fild">
           <a
             href="https://fruitstore.vercel.app/"
