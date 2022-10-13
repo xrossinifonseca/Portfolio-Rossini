@@ -38,7 +38,7 @@ function Projects() {
         </div>
         <div className="fild">
           <a
-            href="https://https://dropdown-eight.vercel.app/"
+            href="https://dropdown-eight.vercel.app/"
             target="_blank"
             rel="noreferrer"
           >
@@ -48,7 +48,7 @@ function Projects() {
           </a>
           <h3>Landing page</h3>
           <a
-            href="https://https://dropdown-eight.vercel.app/"
+            href="https://dropdown-eight.vercel.app/"
             target="_blank"
             rel="noreferrer"
             className="explorar"
