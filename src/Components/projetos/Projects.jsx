@@ -59,7 +59,7 @@ function Projects() {
         </div>
         <div className="fild">
           <a
-            href="https://fruitstore.vercel.app/"
+            href="https://barber-shop-agendamento.vercel.app/"
             target="_blank"
             rel="noreferrer"
           >
