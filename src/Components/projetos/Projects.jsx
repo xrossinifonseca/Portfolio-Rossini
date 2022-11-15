@@ -2,7 +2,7 @@ import React from "react";
 import "./projects.css";
 import { AiOutlineArrowRight } from "react-icons/ai";
 import burguerApp from "../img/burguer-script.png";
-import fruitStore from "../img/fruit-store.png";
+import barbershop from "../img/barbershop.png";
 import drop from "../img/drop-project.png";
 
 function Projects() {
@@ -25,7 +25,7 @@ function Projects() {
               />
             </div>
           </a>
-          <h3>Dev hamburgueria</h3>
+          <h3>hamburgueria</h3>
           <a
             href="https://burguer-ecommerce.vercel.app/"
             target="_blank"
@@ -64,16 +64,12 @@ function Projects() {
             rel="noreferrer"
           >
             <div className="box">
-              <img
-                src={fruitStore}
-                alt="fruit-ecommerce"
-                className="project-img"
-              />
+              <img src={barbershop} alt="barber" className="project-img" />
             </div>
           </a>
-          <h3>Fruit Store</h3>
+          <h3>Barber shop</h3>
           <a
-            href="https://fruitstore.vercel.app/"
+            href="https://barber-shop-agendamento.vercel.app/"
             target="_blank"
             rel="noreferrer"
             className="explorar"
