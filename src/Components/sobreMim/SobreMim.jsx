@@ -9,26 +9,24 @@ import { MdComputer } from "react-icons/md";
 import { SiStyledcomponents } from "react-icons/si";
 
 import cv from "../../cv/Rossini-Fonseca.pdf";
-import perfil from "../img/img-rossini.jpeg";
+import perfil from "../img/main.png";
 
 function SobreMim() {
   return (
-    <div name="sobre" className="container-sobre">
+    <section name="sobre" className="container-sobre">
       <div className="about-info">
         <div className="content_text">
           <h1>Sobre Mim</h1>
           <p>
             Seja bem vindo ao meu portfólio. Me chamo Rossini Fonseca e atuo
-            como desenvolvedor de software desde 2021 na criação e otimização de
-            sites, e-commerce, landing pages e outros sistemas de softwares.
-            Possuo como foco desenvolvimento web onde utilizo a linguagem
-            javascript em meus projetos. Faço uso do React, Next.js, Html5 e
-            Css3 para aplicações no front-end e também possuo conhecimento em
-            Node.js com foco em servidores web fazendo uso do express para
-            requisições via HTTPS. Meu objetivo como desenvolvedor é trazer
-            soluções e criar novas funcionalidades para todos os clientes,
-            otimizando interfaces para melhores perfomances e garantir a boa
-            experiência ao usuário.
+            como desenvolvedor de software há mais de um ano e meio, atuando em
+            projetos freelacers e projetos pessoais. Tenho como objetivo trazer
+            soluções e inovações para empresas e clientes, criando ou trazendo
+            melhores e novas funcionalidades para sistemas de softwares. Utilizo
+            as melhores ferramentas do mercado visando uma melhor perfomance em
+            minhas aplicações. possuo conhecimento em criação e consumo de API
+            Rest, desenvolvimento frontend e backend, Ui Design e praticas de
+            clean code.
           </p>
 
           <div className="btn">
@@ -45,30 +43,30 @@ function SobreMim() {
         </div>
 
         <div className="info-img">
-          <img src={perfil} alt="rossini" />
+          <img src={perfil} alt="logo" />
         </div>
       </div>
       <div className="skills">
-        <h1>Serviços</h1>
+        <h1>Habilidades Técnicas</h1>
 
         <div className="skills-set">
           <div className="box-desc">
             <BsTools size={30} />
-            <h3>Desenvolvimento Web</h3>
+            <h3>Front-end</h3>
             <p>
-              utilizo React/Next.js no front-end junto com html5 css3 para
-              criações e otimizações de interface de usuários
+              React | Tailwindcss | Axios | Html | Css | Styled-components |
+              Javascript
             </p>
           </div>
           <div className="box-desc">
             <BsGithub size={30} />
-            <h3>Versionamento GIT</h3>
-            <p>Gerenciamento de códigos utlizando Git/Github</p>
+            <h3>Backend</h3>
+            <p>Nodejs | Express | MongoDB | Mongoose</p>
           </div>
           <div className="box-desc">
             <MdComputer size={30} />
-            <h3>Freelancer</h3>
-            <p>Desenvolvimento e otimizações de sistemas Web</p>
+            <h3>UI Design</h3>
+            <p>Figma</p>
           </div>
         </div>
       </div>
@@ -89,7 +87,7 @@ function SobreMim() {
           <SiStyledcomponents />
         </span>
       </div>
-    </div>
+    </section>
   );
 }
 
