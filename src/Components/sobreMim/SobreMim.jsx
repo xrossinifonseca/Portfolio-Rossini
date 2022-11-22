@@ -25,7 +25,7 @@ function SobreMim() {
             melhores e novas funcionalidades para sistemas de softwares. Utilizo
             as melhores ferramentas do mercado visando uma melhor perfomance em
             minhas aplicações. possuo conhecimento em criação e consumo de API
-            Rest, desenvolvimento frontend e backend, Ui Design e praticas de
+            Rest, desenvolvimento frontend e backend, Ui Design e práticas de
             clean code.
           </p>
 

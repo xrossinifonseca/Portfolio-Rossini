@@ -9,7 +9,7 @@ function Main() {
       <div className="info">
         <h1>
           HI, <br />
-          I'M SOFTWARE DEVELOPER.
+          I'M SOFTWARE DEVELOPER
         </h1>
         <h3>Rossini Fonseca</h3>
 
@@ -19,7 +19,7 @@ function Main() {
       </div>
 
       <div className="perfil">
-        <img src={ligth} alt="foto perfil" />
+        <img src={ligth} alt="luminaria" />
       </div>
     </div>
   );

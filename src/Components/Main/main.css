@@ -62,7 +62,7 @@
     width: 0;
   }
   to {
-    width: 14.5em;
+    width: 15em;
   }
 }
 @keyframes blickCursor {
@@ -110,7 +110,7 @@
     height: 90vh;
   }
   .info {
-    padding-left: 1%;
+    padding-left: 0;
   }
   .perfil img {
     width: 45%;
