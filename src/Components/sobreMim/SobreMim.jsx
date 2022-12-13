@@ -54,8 +54,8 @@ function SobreMim() {
             <BsTools size={30} />
             <h3>Front-end</h3>
             <p>
-              React | Tailwindcss | Axios | Html | Css | Styled-components |
-              Javascript
+              React | NextJs | Tailwindcss | Axios | Html | Css |
+              Styled-components | Javascript
             </p>
           </div>
           <div className="box-desc">
