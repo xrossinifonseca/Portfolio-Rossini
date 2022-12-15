@@ -19,7 +19,7 @@ const Skills = () => {
                 key={skill.id}
                 className="flex flex-col items-center justify-center"
               >
-                <img src={skill.image} alt="tools" />
+                <img src={skill.img} alt="tools" />
                 <h2>{skill.name}</h2>
               </span>
             ))}
@@ -34,7 +34,7 @@ const Skills = () => {
                 key={skill.id}
                 className="flex flex-col items-center justify-center"
               >
-                <img src={skill.image} alt="" />
+                <img src={skill.img} alt="" />
                 <h2>{skill.name}</h2>
               </span>
             ))}

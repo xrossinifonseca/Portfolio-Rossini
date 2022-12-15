@@ -14,7 +14,7 @@ const Services = () => {
               className=" w-[200px] h-[200px]   border border-secondary rounded flex flex-col justify-center items-center space-y-2"
             >
               <h1 className="text-secondary text-[14px]">{service.name}</h1>
-              <img src={service.image} alt="meus serviços" />
+              <img src={service.img} alt="meus serviços" />
             </div>
           ))}
         </div>

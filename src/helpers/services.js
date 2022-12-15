@@ -13,71 +13,71 @@ import mongo from "../assets/mongo-icon.png";
 import mysql from "../assets/mysql-icon.png";
 import jest from "../assets/jest-icon.png";
 
-import barber from "../assets/barber-project.png";
-import food from "../assets/food-project.png";
-import drop from "../assets/drop-project.png";
+import barber from "../assets/barber-shop.png";
+import food from "../assets/food-club.png";
+import drop from "../assets/dropdown.png";
 
 export const services = [
   {
     id: 1,
     name: "Desenvolvimento front-end",
-    image: front,
+    img: front,
   },
-  { id: 2, name: "Desenvolvimento Back-end", image: back },
+  { id: 2, name: "Desenvolvimento Back-end", img: back },
   {
     id: 3,
     name: "Versionamento Git/Github",
-    image: git,
+    img: git,
   },
   {
     id: 4,
     name: "Figma Design",
-    image: figma,
+    img: figma,
   },
 ];
 
 export const skillsFront = [
-  { id: 1, name: "Javascript", image: javascript },
-  { id: 2, name: "React", image: react },
+  { id: 1, name: "Javascript", img: javascript },
+  { id: 2, name: "React", img: react },
   {
     id: 3,
     name: "Next.js",
-    image: next,
+    img: next,
   },
-  { id: 4, name: "Tailwindcss", image: tailwind },
-  { id: 5, name: "Css", image: css },
-  { id: 6, name: "Html", image: html },
+  { id: 4, name: "Tailwindcss", img: tailwind },
+  { id: 5, name: "Css", img: css },
+  { id: 6, name: "Html", img: html },
 ];
 
 export const skillsBack = [
-  { id: 1, name: "Nodejs", image: node },
-  { id: 2, name: "MongoDb", image: mongo },
+  { id: 1, name: "Nodejs", img: node },
+  { id: 2, name: "MongoDb", img: mongo },
   {
     id: 3,
     name: "MySql",
-    image: mysql,
+    img: mysql,
   },
-  { id: 4, name: "Jest", image: jest },
-  { id: 5, name: "Express", image: "" },
+  { id: 4, name: "Jest", img: jest },
+  { id: 5, name: "Express", img: "" },
 ];
 
 export const projects = [
   {
     id: 1,
     name: "Barber Shop",
-    image: barber,
+    img: barber,
     url: "https://barber-shop-agendamento.vercel.app/",
   },
   {
     id: 2,
     name: "Food-club",
-    image: food,
+    img: food,
     url: "https://foodcluburger.vercel.app/",
   },
   {
     id: 3,
     name: "Dropdown",
-    image: drop,
+    img: drop,
     url: "https://dropdown-eight.vercel.app/",
   },
 ];
