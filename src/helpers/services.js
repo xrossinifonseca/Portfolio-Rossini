@@ -15,7 +15,7 @@ import jest from "../assets/jest-icon.png";
 
 import barber from "../assets/barber-shop.png";
 import food from "../assets/food-club.png";
-import drop from "../assets/dropdown.png";
+import mapty from "../assets/mapty.png";
 
 export const services = [
   {
@@ -70,14 +70,14 @@ export const projects = [
   },
   {
     id: 2,
-    name: "Food-club",
-    img: food,
-    url: "https://foodcluburger.vercel.app/",
+    name: "Mapty",
+    img: mapty,
+    url: "https://mapty-app-phi.vercel.app/",
   },
   {
     id: 3,
-    name: "Dropdown",
-    img: drop,
-    url: "https://dropdown-eight.vercel.app/",
+    name: "Food-club",
+    img: food,
+    url: "https://github.com/xrossinifonseca/food-club",
   },
 ];

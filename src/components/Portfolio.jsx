@@ -25,7 +25,6 @@ const Portfolio = () => {
           clickable: true,
         }}
         modules={[Pagination]}
-        className="mySwiper"
       >
         {projects.map((project) => (
           <SwiperSlide
